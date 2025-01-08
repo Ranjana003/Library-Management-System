@@ -9,9 +9,17 @@ This application is a robust and user-friendly platform for managing books, user
 
 
 User Authentication: Secure user registration and login using JWT.
+
+
 Role-Based Authorization: Grant access to specific features based on user roles (admin,student).
+
+
 Book Management: Add, edit, delete, and search for books.
+
+
 Image Uploading: Upload book covers using Multer and Cloudinary.
+
+
 Search Bar: Search for books or users with an intuitive and fast search bar.
 
 The following are the screenshots of the website
